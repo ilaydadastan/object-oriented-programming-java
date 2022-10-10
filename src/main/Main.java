@@ -6,7 +6,7 @@ public class Main {
 
         Department softwareDepartment = new Department("software");
 
-        System.out.println(softwareDepartment.addEmployer("ilayda", "kepenek"));
+        System.out.println(softwareDepartment.addEmployer("ilayda", "dastan"));
         System.out.println(softwareDepartment.addEmployer("ahmet can", "kepenek"));
 
         Department productDepartment = new Department("product");
